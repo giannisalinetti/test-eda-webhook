@@ -1,5 +1,5 @@
 - hosts: localhost
   tasks:
     - debug:
-        msg: "Hello World!"
+        msg: "Successful EDA webhook test"
 
